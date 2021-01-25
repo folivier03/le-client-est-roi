@@ -1,7 +1,5 @@
 import csv
-import sys
 import pprint
-
 
 
 # Function to convert a csv file to a list of dictionaries.
